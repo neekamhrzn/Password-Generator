@@ -1,0 +1,38 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar{
+  background-color: black;
+  color: white;
+  height: 120px;
+  font-size: 45px;
+}
+
+#outputBox, #length{
+  resize:none;
+}
+.box{
+/*   display:flex;
+  align-items:center;
+  justify-content:center; */
+  width:420px;
+  position:absolute;
+  left:50%;
+  top:50%;
+  transform: translate(-50%,-50%)
+}
+
+.input-group{
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+#generateButton{
+  margin-top:18px;
+}
+
+.form-check-input{
+  position: absolute;
+  right: 20px;
