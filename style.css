@@ -14,9 +14,6 @@ html, body {
   resize:none;
 }
 .box{
-/*   display:flex;
-  align-items:center;
-  justify-content:center; */
   width:420px;
   position:absolute;
   left:50%;
