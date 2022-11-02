@@ -59,23 +59,3 @@ generateButton.addEventListener('click', (e) => {
   outputBox.value = pw
 })
 
-//generate password function
-// function generatePassword(u,l,n,s,tn){
-//   let passw=''
-//   for(let i=0; i<length.value; i++){
-//     if(upper==true){
-//       passw+=randomUppercase()
-//     }
-//     if(lower==true){
-//       passw+=randomLowercase()
-//     }
-//     if(number==truember==true){
-//       passw+=randomNumber()
-//     }
-//     if(symbol==true){
-//       passw+=randomSymbol()
-//     }
-//   }
-//   return passw
-//   // console.log(length.value)
-// }
